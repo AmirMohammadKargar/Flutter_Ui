@@ -1,5 +1,5 @@
-# Flutter-Ui-Samples
-A collection of ui sample with flutter
+# Flutter Ui
+A collection of ui with flutter
 
 <h1>1) Coffee House</h1>
 <div align="center">
